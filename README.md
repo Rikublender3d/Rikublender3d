@@ -75,4 +75,4 @@ Created multiple games using Unity and custom engines
 
 > "Building technology that empowers everyone to live authentically."
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Rikublender3d&color=blueviolet)
