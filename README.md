@@ -4,7 +4,7 @@
 const miku = {
   pronouns: "they/them",
   role: "Full-Stack Engineer & Social Entrepreneur",
-  education: "Waseda University - School of Human Sciences",
+  education: "Waseda University - Department of Human Informatics",
   currently: "Building inclusive healthcare solutions",
   interests: ["Web Development", "AI/ML", "Human-Computer Interaction", "Social Impact"]
 };
