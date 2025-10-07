@@ -110,3 +110,5 @@ Created multiple games using Unity and custom engines
 > "Building technology that empowers everyone to live authentically."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rikublender3d&color=blueviolet)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rikublender3d&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
